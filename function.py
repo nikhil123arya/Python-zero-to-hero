@@ -34,3 +34,4 @@ def days_to_units_2(no_of_days, custom_message):
 # days_to_units_1(120)
 
 days_to_units_2(33, 'Awesome')
+days_to_units_2(12, "looks good")
